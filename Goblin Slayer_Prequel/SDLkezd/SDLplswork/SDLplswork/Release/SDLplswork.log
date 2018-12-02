@@ -1,0 +1,11 @@
+﻿  SDLplswork.cpp
+c:\development\goblin slayer_prequel\sdlkezd\sdlplswork\sdlplswork\sdlplswork.cpp(86): warning C4101: 'y': unreferenced local variable
+c:\development\goblin slayer_prequel\sdlkezd\sdlplswork\sdlplswork\sdlplswork.cpp(86): warning C4101: 'x': unreferenced local variable
+c:\development\goblin slayer_prequel\sdlkezd\sdlplswork\sdlplswork\sdlplswork.cpp(86): warning C4101: 'h': unreferenced local variable
+c:\development\goblin slayer_prequel\sdlkezd\sdlplswork\sdlplswork\sdlplswork.cpp(86): warning C4101: 'w': unreferenced local variable
+  Generating code
+  1 of 141 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SDLplswork.vcxproj -> C:\Development\Goblin Slayer_Prequel\SDLkezd\SDLplswork\Release\SDLplswork.exe

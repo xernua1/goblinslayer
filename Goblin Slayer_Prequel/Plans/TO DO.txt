@@ -1,0 +1,3 @@
+- story main points
+- design egyeztetés
+- alapprogram megírása

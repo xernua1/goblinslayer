@@ -1,0 +1,6 @@
+﻿  SDLplswork.cpp
+c:\development\goblin slayer_prequel\sdlkezd\sdlplswork\sdlplswork\sdlplswork.cpp(86): warning C4101: 'y': unreferenced local variable
+c:\development\goblin slayer_prequel\sdlkezd\sdlplswork\sdlplswork\sdlplswork.cpp(86): warning C4101: 'x': unreferenced local variable
+c:\development\goblin slayer_prequel\sdlkezd\sdlplswork\sdlplswork\sdlplswork.cpp(86): warning C4101: 'h': unreferenced local variable
+c:\development\goblin slayer_prequel\sdlkezd\sdlplswork\sdlplswork\sdlplswork.cpp(86): warning C4101: 'w': unreferenced local variable
+  SDLplswork.vcxproj -> C:\Development\Goblin Slayer_Prequel\SDLkezd\SDLplswork\Debug\SDLplswork.exe

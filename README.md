@@ -1,2 +1,3 @@
 # goblinslayer
-Goblin Slayer: Prologue PC game and its development
+Goblin Slayer: Prologue
+Vocational Education project
